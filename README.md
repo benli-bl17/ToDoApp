@@ -28,7 +28,7 @@ Make sure you have Node.js and npm installed.
 
 1. Clone the repo
    ```sh
-   git clone
+   git clone https://github.com/benli-bl17/ToDoApp.git
    ```
 2. Install NPM packages
    ```sh
@@ -75,4 +75,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- [Todo App](https://example.com)
+- [Todo App](https://todoapp-seven-nu.vercel.app/)
